@@ -1,0 +1,7 @@
+.box{
+    max-width: 500px;
+    left: 0;
+    right: 0; /* position fixed use htr loh left,right 0 thone pay ya mel */
+    background-color: #ffffffde;
+    backdrop-filter: blur(7px) contrast(190%);
+}
